@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MT.OnlineRestaurant.BusinessEntities\MT.OnlineRestaurant.BusinessEntities.csproj" />
+    <ProjectReference Include="..\MT.OnlineRestaurant.DataLayer\MT.OnlineRestaurant.DataLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MT.OnlineRestaurant.Utilities">
+      <HintPath>..\MT.OnlineRestaurant.Utilities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

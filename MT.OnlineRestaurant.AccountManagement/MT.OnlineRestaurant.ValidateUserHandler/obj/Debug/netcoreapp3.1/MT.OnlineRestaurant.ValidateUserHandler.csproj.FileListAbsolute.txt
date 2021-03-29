@@ -1,0 +1,14 @@
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.ValidateUserHandler.csprojAssemblyReference.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.ValidateUserHandler.AssemblyInfoInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.ValidateUserHandler.AssemblyInfo.cs
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.ValidateUserHandler.csproj.CoreCompileInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.ValidateUserHandler.deps.json
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.ValidateUserHandler.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.ValidateUserHandler.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\bin\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\bin\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.ValidateUserHandler.csproj.CopyComplete
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.ValidateUserHandler.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.ValidateUserHandler\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.ValidateUserHandler.pdb

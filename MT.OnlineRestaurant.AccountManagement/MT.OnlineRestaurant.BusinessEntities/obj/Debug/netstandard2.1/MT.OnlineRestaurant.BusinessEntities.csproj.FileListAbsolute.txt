@@ -1,0 +1,9 @@
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessEntities\bin\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessEntities.deps.json
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessEntities\bin\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessEntities.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessEntities\bin\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessEntities.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessEntities.AssemblyInfoInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessEntities.AssemblyInfo.cs
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessEntities.csproj.CoreCompileInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessEntities.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessEntities.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessEntities.csprojAssemblyReference.cache

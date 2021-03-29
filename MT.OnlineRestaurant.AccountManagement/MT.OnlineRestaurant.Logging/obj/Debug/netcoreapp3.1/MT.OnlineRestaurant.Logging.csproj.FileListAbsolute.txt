@@ -1,0 +1,12 @@
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.csprojAssemblyReference.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.AssemblyInfoInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.AssemblyInfo.cs
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.csproj.CoreCompileInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.deps.json
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.runtimeconfig.json
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.runtimeconfig.dev.json
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Logging\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Logging.genruntimeconfig.cache

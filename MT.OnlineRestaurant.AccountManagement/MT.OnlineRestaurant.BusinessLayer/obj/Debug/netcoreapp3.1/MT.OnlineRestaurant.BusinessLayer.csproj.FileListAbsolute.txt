@@ -1,0 +1,14 @@
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.deps.json
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.csprojAssemblyReference.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.AssemblyInfoInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.AssemblyInfo.cs
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.csproj.CoreCompileInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.csproj.CopyComplete
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.pdb

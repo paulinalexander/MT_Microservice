@@ -1,0 +1,9 @@
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\MT.OnlineRestaurant.Utilities\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.Utilities.deps.json
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\MT.OnlineRestaurant.Utilities\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.Utilities.dll
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\MT.OnlineRestaurant.Utilities\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.Utilities.pdb
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\MT.OnlineRestaurant.Utilities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Utilities.csprojAssemblyReference.cache
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\MT.OnlineRestaurant.Utilities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Utilities.AssemblyInfoInputs.cache
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\MT.OnlineRestaurant.Utilities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Utilities.AssemblyInfo.cs
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\MT.OnlineRestaurant.Utilities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\MT.OnlineRestaurant.Utilities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Utilities.dll
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\MT.OnlineRestaurant.Utilities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.Utilities.pdb

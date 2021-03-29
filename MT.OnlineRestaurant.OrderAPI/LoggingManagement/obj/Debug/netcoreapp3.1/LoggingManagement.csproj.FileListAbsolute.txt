@@ -1,0 +1,9 @@
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\LoggingManagement\bin\Debug\netcoreapp3.1\LoggingManagement.deps.json
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\LoggingManagement\bin\Debug\netcoreapp3.1\LoggingManagement.dll
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\LoggingManagement\bin\Debug\netcoreapp3.1\LoggingManagement.pdb
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\LoggingManagement\obj\Debug\netcoreapp3.1\LoggingManagement.csprojAssemblyReference.cache
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\LoggingManagement\obj\Debug\netcoreapp3.1\LoggingManagement.AssemblyInfoInputs.cache
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\LoggingManagement\obj\Debug\netcoreapp3.1\LoggingManagement.AssemblyInfo.cs
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\LoggingManagement\obj\Debug\netcoreapp3.1\LoggingManagement.csproj.CoreCompileInputs.cache
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\LoggingManagement\obj\Debug\netcoreapp3.1\LoggingManagement.dll
+C:\Users\patric\source\repos\MT.OnlineRestaurant.OrderAPI\LoggingManagement\obj\Debug\netcoreapp3.1\LoggingManagement.pdb

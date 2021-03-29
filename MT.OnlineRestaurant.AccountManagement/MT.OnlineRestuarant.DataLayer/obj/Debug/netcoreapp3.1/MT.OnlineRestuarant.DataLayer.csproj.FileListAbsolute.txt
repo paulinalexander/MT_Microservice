@@ -1,0 +1,15 @@
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.csprojAssemblyReference.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.AssemblyInfoInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.AssemblyInfo.cs
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.csproj.CoreCompileInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.deps.json
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.runtimeconfig.json
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.runtimeconfig.dev.json
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.csproj.CopyComplete
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestuarant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestuarant.DataLayer.genruntimeconfig.cache

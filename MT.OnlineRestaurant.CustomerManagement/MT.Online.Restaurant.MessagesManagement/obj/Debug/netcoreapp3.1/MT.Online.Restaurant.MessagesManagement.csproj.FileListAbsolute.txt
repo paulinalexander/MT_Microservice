@@ -1,0 +1,16 @@
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp3.1\MT.Online.Restaurant.MessagesManagement.csprojAssemblyReference.cache
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp3.1\MT.Online.Restaurant.MessagesManagement.AssemblyInfoInputs.cache
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp3.1\MT.Online.Restaurant.MessagesManagement.AssemblyInfo.cs
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp3.1\MT.Online.Restaurant.MessagesManagement.csproj.CoreCompileInputs.cache
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp3.1\MT.Online.Restaurant.MessagesManagement.deps.json
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp3.1\MT.Online.Restaurant.MessagesManagement.dll
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp3.1\MT.Online.Restaurant.MessagesManagement.pdb
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.dll
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.dll
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.dll
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessLayer.pdb
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.pdb
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.pdb
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp3.1\MT.Online.Restaurant.MessagesManagement.csproj.CopyComplete
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp3.1\MT.Online.Restaurant.MessagesManagement.dll
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.Online.Restaurant.MessagesManagement\obj\Debug\netcoreapp3.1\MT.Online.Restaurant.MessagesManagement.pdb

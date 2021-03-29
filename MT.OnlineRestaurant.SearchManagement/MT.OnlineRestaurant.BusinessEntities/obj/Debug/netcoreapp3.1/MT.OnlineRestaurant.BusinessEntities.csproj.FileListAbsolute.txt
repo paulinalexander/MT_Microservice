@@ -1,0 +1,9 @@
+C:\Users\patric\source\repos\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessEntities\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.deps.json
+C:\Users\patric\source\repos\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessEntities\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.dll
+C:\Users\patric\source\repos\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessEntities\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.pdb
+C:\Users\patric\source\repos\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.csprojAssemblyReference.cache
+C:\Users\patric\source\repos\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\patric\source\repos\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.AssemblyInfo.cs
+C:\Users\patric\source\repos\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\patric\source\repos\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.dll
+C:\Users\patric\source\repos\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.BusinessEntities.pdb

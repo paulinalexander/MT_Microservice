@@ -1,0 +1,4 @@
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessLayer.csprojAssemblyReference.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessLayer.AssemblyInfoInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessLayer.AssemblyInfo.cs
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netstandard2.1\MT.OnlineRestaurant.BusinessLayer.csproj.CoreCompileInputs.cache

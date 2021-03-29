@@ -1,0 +1,12 @@
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.deps.json
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.runtimeconfig.json
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.runtimeconfig.dev.json
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.dll
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\bin\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.pdb
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.csprojAssemblyReference.cache
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.AssemblyInfoInputs.cache
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.AssemblyInfo.cs
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.csproj.CoreCompileInputs.cache
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.dll
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.pdb
+F:\micservice\MT.OnlineRestaurant.CustomerManagement\MT.OnlineRestaurant.DataLayer\obj\Debug\netcoreapp3.1\MT.OnlineRestaurant.DataLayer.genruntimeconfig.cache

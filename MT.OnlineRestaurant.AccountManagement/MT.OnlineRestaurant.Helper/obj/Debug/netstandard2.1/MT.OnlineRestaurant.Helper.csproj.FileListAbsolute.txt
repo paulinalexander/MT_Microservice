@@ -1,0 +1,9 @@
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\bin\Debug\netstandard2.1\MT.OnlineRestaurant.Helper.deps.json
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\bin\Debug\netstandard2.1\MT.OnlineRestaurant.Helper.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\bin\Debug\netstandard2.1\MT.OnlineRestaurant.Helper.pdb
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Debug\netstandard2.1\MT.OnlineRestaurant.Helper.csprojAssemblyReference.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Debug\netstandard2.1\MT.OnlineRestaurant.Helper.AssemblyInfoInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Debug\netstandard2.1\MT.OnlineRestaurant.Helper.AssemblyInfo.cs
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Debug\netstandard2.1\MT.OnlineRestaurant.Helper.csproj.CoreCompileInputs.cache
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Debug\netstandard2.1\MT.OnlineRestaurant.Helper.dll
+F:\micservice\MT.OnlineRestaurant.AccountManagement\MT.OnlineRestaurant.Helper\obj\Debug\netstandard2.1\MT.OnlineRestaurant.Helper.pdb

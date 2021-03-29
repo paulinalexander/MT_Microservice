@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "MT.OnlineRestaurant.BusinessEntities/1.0.0": {
+        "runtime": {
+          "MT.OnlineRestaurant.BusinessEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MT.OnlineRestaurant.BusinessEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q6eaPrfvxylBWfyGFvdyX6r9EGOykojahczTr4eKf6mAu0aYb7UX4k6OxXHvls1qBHXu1TQtgPGivxGzddM1Kw==",
+  "success": true,
+  "projectFilePath": "F:\\micservice\\MT.OnlineRestaurant.OrderAPI\\LoggingManagement\\LoggingManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patric\\.nuget\\packages\\microsoft.applicationinsights\\2.17.0\\microsoft.applicationinsights.2.17.0.nupkg.sha512",
+    "C:\\Users\\patric\\.nuget\\packages\\nlog\\4.7.9\\nlog.4.7.9.nupkg.sha512",
+    "C:\\Users\\patric\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
